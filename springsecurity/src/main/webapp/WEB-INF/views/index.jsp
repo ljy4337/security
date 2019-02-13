@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-메인화면
+
 새로운 기능
+새로운 기능2
 </body>
 </html>
