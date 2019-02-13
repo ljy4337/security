@@ -8,5 +8,6 @@
 </head>
 <body>
 메인화면
+새로운 기능
 </body>
 </html>
